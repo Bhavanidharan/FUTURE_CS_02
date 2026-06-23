@@ -54,4 +54,8 @@ Task_2_Phishing_Detection/
 
 ## 👤 Author
 
-**Future Interns Cyber Security Intern — 2026**
+Bhavanidharan S
+
+B.E. Cyber Security Student
+Cybersecurity Enthusiast | Bug Bounty Hunter
+Future Interns Cyber Security Intern – 2026
